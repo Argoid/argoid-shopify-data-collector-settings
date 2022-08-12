@@ -1,5 +1,5 @@
 homepage: "https://www.argoid.ai/"
 documentation: "https://argoid.atlassian.net/wiki/spaces/ARGOID/pages/1908113409/Shopify+Google+Tag+Manager+Integration"
 versions:
-  - sha: 5f6014a1207f6ae9bc5469d67abf51ea2251da8a
+  - sha: 2853cfa615cae5cf7298de77065d37d5b0002e4e
     changeNotes: Initial release.
