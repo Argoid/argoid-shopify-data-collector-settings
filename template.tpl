@@ -2,7 +2,7 @@
 
 
 {
-  "type": "TAG",
+  "type": "MACRO",
   "id": "argoid_temp_public_id",
   "version": 1,
   "securityGroups": [],
@@ -18,20 +18,6 @@
     "WEB"
   ]
 }
-
-
-{
-  "type": "MACRO",
-  "id": "cvt_temp_public_id",
-  "version": 1,
-  "securityGroups": [],
-  "displayName": "Argoid Analytics Settings",
-  "description": "",
-  "containerContexts": [
-    "WEB"
-  ]
-}
-
 
 ___TEMPLATE_PARAMETERS___
 
